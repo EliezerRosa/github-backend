@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "autor": "João",
+    "conteudo": "Bem-vindo ao sistema!"
+  },
+  {
+    "id": 2,
+    "autor": "Maria",
+    "conteudo": "Primeiro post de teste."
+  },
+  {
+    "id": 3,
+    "autor": "Carlos",
+    "conteudo": "Como utilizar a plataforma."
+  }
+]
