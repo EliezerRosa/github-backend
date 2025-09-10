@@ -1,0 +1,1 @@
+[\n    {\n        "id": 1,\n        "nome": "João",\n        "status": "ativo"\n    },\n    {\n        "id": 2,\n        "nome": "Maria",\n        "status": "inativo"\n    },\n    {\n        "id": 3,\n        "nome": "Carlos",\n        "status": "ativo"\n    }\n]
